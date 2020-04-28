@@ -26,9 +26,9 @@ import { stringify } from 'querystring';
  * Change the links below to your own according to the guide.
  */
 //This is your github repository's url. Don't end the link with ".git" or "/" in the end
-var gitUrl = "https://github.com/alt-romes/minblogdemo"
+var gitUrl = "https://github.com/acalmaapipoca/acalmaapipoca.github.io"
 //This is the email the commits will be assigned to, this will be shown only in this github repository.
-const email = "alt.romes@gmail.com"
+const email = "acalmaapipoca.pt@gmail.com"
 
 
 

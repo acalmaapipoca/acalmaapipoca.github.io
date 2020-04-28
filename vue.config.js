@@ -1,5 +1,5 @@
 module.exports = {
-  outputDir: 'minblogdemo',
+  outputDir: 'acalmaapipoca.github.io',
   // publicPath: 'minblogdemo',
   devServer: {
     disableHostCheck: true
